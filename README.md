@@ -7,6 +7,10 @@
 
 * * *
 
+[TOC]
+
+* * *
+
 ## Introduction
 
 > _Never ascribe to malice, that which can be explained by incompetence._ - Napoleon
